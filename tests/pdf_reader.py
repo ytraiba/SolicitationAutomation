@@ -70,7 +70,7 @@ def pdf_reader(keywordlst, email):
    """ + summary
 
    gmail_user = "yasintraiba@gmail.com"
-   gmail_app_password = "daopfvjolcjncgvd"
+   gmail_app_password = ""
    sent_from = "yasintraiba@gmail.com"
    sent_to = email
    email_text = message
