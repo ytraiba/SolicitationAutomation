@@ -1,6 +1,6 @@
 # Solicitation Automation
 
-I created these scripts along with a graphical user interface to automate 
+The scripting software along with a graphical user interface were created to automate 
 the process of downloading new project solicitiations for [Infrasense.](www.infrasense.com) 
 PDF's that have information on new projects are downloaded from government websites and 
 searched for keywords (bridge, infrared, etc.) that indicate the project might be of interest to
